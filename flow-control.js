@@ -26,7 +26,7 @@ function ageChecker(age) {
 }
 
   function switchAge(age) {
-  switch (age){
+  switch(age){
     case "13":
       console.log("You are a teenager");
       break;
